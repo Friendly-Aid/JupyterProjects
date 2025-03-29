@@ -1,0 +1,1 @@
+This is the repository where my jupyter notebooks will be for now. for the plotly project I did look at plotly.ipynb
